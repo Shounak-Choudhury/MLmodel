@@ -2,11 +2,6 @@ numpy
 tensorflow
 keras
 opencv-python
-sys
-os
-numpy
 PIL
 matplotlib
-random
-shutil
-zipfile
+
