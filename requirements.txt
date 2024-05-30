@@ -1,7 +1,7 @@
 numpy
 tensorflow
 keras
-opencv
+opencv-python
 sys
 os
 numpy
