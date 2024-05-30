@@ -2,6 +2,6 @@ numpy
 tensorflow
 keras
 opencv-python
-PIL
+Pillow
 matplotlib
 
